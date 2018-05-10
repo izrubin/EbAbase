@@ -17,7 +17,7 @@ conda install requests pandas scrapy
 ```
 
 ## Instructions to Find Examples in the Notebooks Directory
-To access the Jupyter notebooks for EbAbase examples, navigate to the `notebooks/` directory, open Jupyter notebooks, and run a notebook, following the instructions in the notebook.
+To access the Jupyter notebooks for EbAbase examples, navigate to the `notebooks/` directory, open Jupyter notebooks, and run the EbAbase tutorial notebooks. The first notebook goes through the process of using a RESTful API for USAID Development Experience Clearinghouse metadata. The second notebook would have gone through web scraping sources without RESTful APIs. A third notebook would have demonstrated importing and using a package I would have developed from functions through the first two notebooks. Enter the following lines in a terminal _after_ following the installation instructions above in order to access the Jupyter notebooks. Alternatively, you can view the notebooks in a non-executable format through GitHub [here](https://github.com/izrubin/EbAbase/tree/master/notebooks).
 ```python
 cd notebooks/
 jupyter-notebooks

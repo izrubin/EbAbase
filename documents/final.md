@@ -1,11 +1,15 @@
-## Final project essay
+## Final Project Reflection
+Ilana Z. Rubin
 
-I will update and complete this later.
+May 10, 2018
 
-"The final project essay is due on May 11th at the same time as your final project. Create a markdown document and save it as documents/final.md. In this file write short answers to the following questions:
+##### Now that you have seen many full research projects saved online as GitHub repositories do you plan to use GitHub for your future projects as a way to store code and data in the cloud and to share your progress with others?
 
-Now that you have seen many full research projects saved online as GitHub repositories do you plan to use GitHub for your future projects as a way to store code and data in the cloud and to share your progress with others?
+I do find GitHub to be very useful for coding projects and storing data. If I have future coding projects, I would definitely use this platform again after tidying it up at the end of this semester. While GitHub was completely unknown to me at the beginning of the semester, I can see now how it is an open-source, fairly accessible platform for users ranging from international agencies to beginning students.
 
-Did you project accomplish the goals that you set out for yourself in your proposal? If not, why? What was the hardest problem in your project that were able to overcome? What, if any, was a problem that you were unable to overcome in your project within the given time?
+##### Did you project accomplish the goals that you set out for yourself in your proposal? If not, why? What was the hardest problem in your project that were able to overcome? What, if any, was a problem that you were unable to overcome in your project within the given time?
 
-Do you feel that you've learned the skills necessary perform data analysis in Python, and to write your own program or pipeline for data analysis? What skills do you think you need to work on further, and where would you look to find more information about learning these skills?"
+I did not accomplish the goals that I set out for myself in my proposal. I knew when I wrote my proposal that I was outlining more to do than I would get to do. My main challenge was my own time management by not arranging time to start the projects weeks earlier. I did not get to create a complete Python package, but I do not think that would have been a challenge apart from the timing. Initially, I had expected that there would be more developed existing RESTful APIs related to international aid and development project data, but there was very little aside from project and document metadata or tracking of aid dollar amounts, without much of the other information I was interested in. One problem that I was challenged by at first was how to build in Base64 encoding and decoding, but I was able to overcome this through learning from online forums and `Base64` documentation. I was able to structure the setup for my repo and the directories within, but I did not get very far along in my plan in terms of developing my ultimate outputs. It is still something that interests me, which I might return to develop in the future, though.
+
+##### Do you feel that you've learned the skills necessary perform data analysis in Python, and to write your own program or pipeline for data analysis? What skills do you think you need to work on further, and where would you look to find more information about learning these skills?"
+While I have not yet mastered the skills to perform data analysis in Python without referencing class notes, readings, or other sources online, I feel much more comfortable with the tools, terminology, and languages we have used. The same is true for writing my own program or pipeline. However, I know where to look to find out more - including references from class, numerous other GitHub repos, StackOverflow forums, readthedocs sites for programs. I also have a better grasp of knowing what I do not know, as someone who previously did no coding aside from a bit of STATA work before this course.
